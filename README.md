@@ -1,3 +1,3 @@
 Añadido creador del repositorio: José Ángel
 Sergio
-Adolfo, no Rodolfogit 
+Adolfo, no Rodolfo 
